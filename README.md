@@ -14,7 +14,7 @@ Iniciei atuando na área de TI em 2006 sendo estagiário e executando diversas t
 
 Desde então vim me especializando na plataforma Protheus e me certificando em desenvolvimento Advpl e Advpl Web para contemplar as necessidades da empresa.
 
-Em 2011 trabalhei na Totvs IP como analista de desenvolvimento atuando em campo e customizando sistemas para o negócio da empresa.
+Em 2011 trabalhei na Totvs IP como analista de desenvolvimento atuando em campo e customizando sistemas para os negócios das empresas.
 
 Me senti estagnado e precisava me especializar em uma linguagem que me desse o poder de desenvolvimento necessário para criar qualquer tipo de aplicação, foi aí que descobri o NodeJs, ReactJs e React-Native, onde utilizando uma única linguagem conseguiria desenvolver o backend, frontend e mobile utilizando a mesma stack.
 
