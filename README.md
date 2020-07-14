@@ -35,28 +35,22 @@ Desde então venho estudando e me especializando nessas tecnologias.
 
 ### Certificados
 
-> Bootcamp Fullstack developer
+> Bootcamp Fullstack developer (Rocketseat)
 
-- Rocketseat
-  > Analista de Machine Learning
-- Em andamento - IGTI Instituto de
-  Gestão de Tecnologia da Informação
-  > UX Design
-- Em andamento - IGTI Instituto de
-  Gestão de Tecnologia da Informação
-  > Developing Microsoft Azure Solutions
-- Ka Solutions
-  > Implementing Microsoft Azure Infrastructure
-  > Solutions
-- Ka Solutions
-  > Google Analytics
-- ComSchool
-  > Writing Queries Using Microsoft SQL Server 2008
-  > Transact-SQL
-- People Campinas
-  > Programação Advpl III Web
-- Advpl Treinamentos Empresariais
-  > Programação Advpl II Advanced O.O.
-- Advpl Treinamentos Empresariais
-  > Desenvolvimento de WEBSITES com PHP e MySQL
-- Unisal Americana
+> Analista de Machine Learning (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
+
+> UX Design (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
+
+> Developing Microsoft Azure Solutions (Ka Solutions)
+
+> Implementing Microsoft Azure Infrastructure (Ka Solutions)
+
+> Google Analytics (ComSchool)
+
+> Writing Queries Using Microsoft SQL Server 2008 Transact-SQL (People Campinas)
+
+> Programação Advpl III Web (Advpl Treinamentos Empresariais)
+
+> Programação Advpl II Advanced O.O. (Advpl Treinamentos Empresariais)
+
+> Desenvolvimento de WEBSITES com PHP e MySQL (Unisal Americana)
