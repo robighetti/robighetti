@@ -37,8 +37,8 @@ Desde então venho estudando e me especializando nessas tecnologias.
 
 - [x] Bootcamp Fullstack developer (Rocketseat)
 - [x] Advanced CSS and Sass: Flexbox, Grid, Animations and More (Udemy - Jonas Schmedtman)
-- [] Analista de Machine Learning (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
-- [] UX Design (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
+- [ ] Analista de Machine Learning (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
+- [ ] UX Design (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
 - [x] Developing Microsoft Azure Solutions (Ka Solutions)
 - [x] Implementing Microsoft Azure Infrastructure Solutions (Ka Solutions)
 - [x] Google Analytics (ComSchool)
