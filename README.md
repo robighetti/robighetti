@@ -28,35 +28,21 @@ Desde então venho estudando e me especializando nessas tecnologias.
 - [Instagram](https://www.instagram.com/robighetti/)
 - [Profile (ainda em desenvolvimento)](https://robighetti.com.br)
 
-## Formação
+# Formação
 
 - Bacharel em Sistemas de Informação (Faculdade Dom Bosco) - Concluído 2012
 - MBA em Gestão Empresarial (IBE/FGV) - Concluído 2019
 
-### Certificados
+# Certificados
 
-> Bootcamp Fullstack developer
-
-- Rocketseat
-  > Analista de Machine Learning
-- Em andamento - IGTI Instituto de
-  Gestão de Tecnologia da Informação
-  > UX Design
-- Em andamento - IGTI Instituto de
-  Gestão de Tecnologia da Informação
-  > Developing Microsoft Azure Solutions
-- Ka Solutions
-  > Implementing Microsoft Azure Infrastructure
-  > Solutions
-- Ka Solutions
-  > Google Analytics
-- ComSchool
-  > Writing Queries Using Microsoft SQL Server 2008
-  > Transact-SQL
-- People Campinas
-  > Programação Advpl III Web
-- Advpl Treinamentos Empresariais
-  > Programação Advpl II Advanced O.O.
-- Advpl Treinamentos Empresariais
-  > Desenvolvimento de WEBSITES com PHP e MySQL
-- Unisal Americana
+- [x] Bootcamp Fullstack developer (Rocketseat)
+- [x] Advanced CSS and Sass: Flexbox, Grid, Animations and More (Udemy - Jonas Schmedtman)
+- [] Analista de Machine Learning (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
+- [] UX Design (Em andamento - IGTI Instituto de Gestão de Tecnologia da Informação)
+- [x] Developing Microsoft Azure Solutions (Ka Solutions)
+- [x] Implementing Microsoft Azure Infrastructure Solutions (Ka Solutions)
+- [x] Google Analytics (ComSchool)
+- [x] Writing Queries Using Microsoft SQL Server 2008 Transact-SQL (People Campinas)
+- [x] Programação Advpl III Web (Advpl Treinamentos Empresariais)
+- [x] Programação Advpl II Advanced O.O. (Advpl Treinamentos Empresariais)
+- [x] Desenvolvimento de WEBSITES com PHP e MySQL (Unisal Americana)
