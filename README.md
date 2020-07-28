@@ -33,7 +33,7 @@ Desde então venho estudando e me especializando nessas tecnologias.
 - Bacharel em Sistemas de Informação (Faculdade Dom Bosco) - Concluído 2012
 - MBA em Gestão Empresarial (IBE/FGV) - Concluído 2019
 
-# Certificados
+## Certificados
 
 - [x] Bootcamp Fullstack developer (Rocketseat)
 - [x] Advanced CSS and Sass: Flexbox, Grid, Animations and More (Udemy - Jonas Schmedtman)
