@@ -35,6 +35,7 @@ Desde então venho estudando e me especializando nessas tecnologias.
 
 ## 🏆 Certificados
 
+- [ ] React Avançado com NextJs, Typescript, Strapi, GraphQL, Apollo, Jest, Testing Library, Storybook, Cypress (React Avançado)
 - [x] Microsoft Certified Azure Fundamentals (AZ-900)
 - [x] Bootcamp Fullstack developer (Rocketseat)
 - [x] Advanced CSS and Sass: Flexbox, Grid, Animations and More (Udemy - Jonas Schmedtman)
