@@ -67,7 +67,7 @@ Desde então venho estudando e me especializando nessas tecnologias.
 
 ## Formação
 
-- MBA em Engenharia de Software (IMPACTA) - Cursando
+- MBA em Engenharia de Software (IMPACTA) -  Concluído 2021
 - MBA em Gestão Empresarial (IBE/FGV) - Concluído 2019
 - Bacharel em Sistemas de Informação (Faculdade Dom Bosco) - Concluído 2012
 
