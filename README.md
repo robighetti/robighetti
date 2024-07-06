@@ -53,15 +53,27 @@
 
 ## Biografia
 
-Iniciei atuando na área de TI em 2006 sendo estagiário e executando diversas tarefas desde montagens de computador, servidores, redes e principalmente a administração do sistema Protheus (Totvs).
+Com uma sólida carreira de 25 anos no desenvolvimento de software e gestão empresarial, transformei desafios complexos em soluções inovadoras e escaláveis. Minha jornada começou com uma paixão por tecnologia, que evoluiu para uma expertise abrangente em desenvolvimento fullstack, especialmente com Node.js e React.js.
 
-Desde então vim me especializando na plataforma Protheus e me certificando em desenvolvimento Advpl e Advpl Web para contemplar as necessidades da empresa.
+Experiência Profissional:
 
-Em 2011 trabalhei na Totvs IP como analista de desenvolvimento atuando em campo e customizando sistemas para os negócios das empresas.
+Avanade: Conduzi projetos de alta complexidade, implementando soluções que aumentaram a eficiência e a segurança das operações.
 
-Me senti estagnado e precisava me especializar em uma linguagem que me desse o poder de desenvolvimento necessário para criar qualquer tipo de aplicação, foi aí que descobri o NodeJs, ReactJs e React-Native, onde utilizando uma única linguagem conseguiria desenvolver o backend, frontend e mobile utilizando a mesma stack.
+Wipro: Otimizei processos e sistemas, resultando em melhorias significativas na produtividade e na satisfação dos clientes.
 
-Desde então venho estudando e me especializando nessas tecnologias.
+Stack2u: Lidero iniciativas tecnológicas que unem inovação e usabilidade, sempre com um olhar atento à experiência do usuário final.
+
+Conquistas Significativas:
+
+Implementação de sistemas que reduziram o tempo de processamento de dados em 40%.
+Liderança de equipes multifuncionais em projetos internacionais, entregando soluções dentro do prazo e do orçamento.
+
+Reconhecimentos por excelência em desenvolvimento de software e gestão de projetos.
+Aspirações de Carreira:
+
+Estou sempre em busca de novos desafios que me permitam utilizar minhas habilidades e experiência para criar impacto positivo. Meu objetivo é continuar a liderar projetos de ponta, mentorando novos talentos e explorando as fronteiras da tecnologia.
+
+Vamos conectar e explorar como posso agregar valor ao seu próximo projeto! 🚀
 
 </br>
 
