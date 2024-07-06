@@ -77,6 +77,15 @@ Vamos conectar e explorar como posso agregar valor ao seu próximo projeto! 🚀
 
 </br>
 
+## Projeto Social
+O VEM SER DEV é um projeto que oferece  qualificação profissional gratuita na área de tecnologia da informação. 
+
+Esta ação tem como objetivo permitir que jovens conheçam e aprimorem habilidades técnicas na área de desenvolvimento de sistemas e estejam capacitados para se integrar ao ambiente corporativo.
+
+<a href="https://vemserdev.net/" target="_blank">Venha Conhecer o Projeto</a>
+
+</br>
+
 ## Formação
 
 - MBA em Engenharia de Software (IMPACTA) -  Concluído 2021
