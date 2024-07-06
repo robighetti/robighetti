@@ -74,7 +74,24 @@ Desde então venho estudando e me especializando nessas tecnologias.
 </br>
 
 ## Certificados
-
+- ✅ NestJS (Rocketseat)
+- ✅ DDD no Node.JS (Rocketseat)
+- ✅ NodeJS (Rocketseat)
+- ✅ Curso de Padrões e técnicas avançadas de Git e Github (Full Cycle)
+- ✅ Curso de DDD - Modelagem Tática e Patterns (Full Cycle)
+- ✅ Curso de Event Storming na Prática (Full Cycle)
+- ✅ Curso de Comunicação entre sistemas (Full Cycle)
+- ✅ Curso de Domain Driven Design (Full Cycle)
+- ✅ Curso de SOLID Express (Full Cycle)
+- ✅ Curso de Fundamentos de Arquitetura de Software (Full Cycle)
+- ✅ Curso de Python - Orientação a objetos na prática (School of Net)
+- ✅ Curso de Python - Boas Práticas e gerenciamento de arquivos (School of Net)
+- ✅ Curso de Python - Iniciando na prática (School of Net)
+- ✅ Curso de Python OO (School of Net)
+- ✅ Curso de Docker (Full Cycle)
+- ✅ License to Hire (Avanade)
+- ✅ Leadership Communication (Fiap)
+- ✅ Webpack do básico ao avançado (Udemy)
 - ✅ Scrum Foundation Professional Certificate (CertiProf)
 - ✅ Docker for Javascript / NodeJS Developer (Udemy)
 - ✅ Microsoft Technology Associate (98-382)
