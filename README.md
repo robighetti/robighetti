@@ -17,7 +17,7 @@
 
 ## Summary
 
-Results-oriented Software Engineer with 25+ years of experience in full-stack development, specializing in Agile methodologies, CI/CD, and cloud technologies (AWS, Docker)[cite: 3]. Proven ability to lead teams and deliver innovative solutions[cite: 4]. Passionate about social impact, demonstrated through the 'Vem Ser Dev' initiative, focused on teaching programming to underprivileged youth[cite: 2]. Eager to leverage expertise in a challenging environment that values diversity and inclusion[cite: 4].
+Results-oriented Software Engineer with 25+ years of experience in full-stack development, specializing in Agile methodologies, CI/CD, and cloud technologies (AWS, Docker). Proven ability to lead teams and deliver innovative solutions. Passionate about social impact, demonstrated through the 'Vem Ser Dev' initiative, focused on teaching programming to underprivileged youth. Eager to leverage expertise in a challenging environment that values diversity and inclusion.
 
 ## Technical Skills
 
@@ -35,74 +35,74 @@ Results-oriented Software Engineer with 25+ years of experience in full-stack de
 
 ## Professional Experience
 
-**Stack 2u Inovação Digital** | CEO & Tech Lead | FullStack Developer | Software Engineer | Current [cite: 7]
+**Stack 2u Inovação Digital** | CEO & Tech Lead | FullStack Developer | Software Engineer | Current 
 
-* Experienced tech lead and full-stack developer with a passion for building high-performing teams and delivering innovative solutions[cite: 8].
-* Skilled in architecting and developing scalable software applications[cite: 9].
-* Proven ability to mentor and guide junior developers while driving projects from conception to completion[cite: 9].
+* Experienced tech lead and full-stack developer with a passion for building high-performing teams and delivering innovative solutions.
+* Skilled in architecting and developing scalable software applications.
+* Proven ability to mentor and guide junior developers while driving projects from conception to completion.
 * Successfully led the development of:
-    * Mefsa - Platform for managing production and administrative processes, with logs and messaging[cite: 10].
-    * Fastwork - Platform for recording productive and unproductive hours, significantly improving recording efficiency[cite: 11].
-    * Solida - Platform for truck driver risk analysis with integration with Trafegus and Dminer, automating manual work[cite: 11, 12].
-    * SaLog - Online cargo monitoring tower with TMS integration, enabling complete route visualization and driver communication[cite: 12, 13].
+    * Mefsa - Platform for managing production and administrative processes, with logs and messaging.
+    * Fastwork - Platform for recording productive and unproductive hours, significantly improving recording efficiency.
+    * Solida - Platform for truck driver risk analysis with integration with Trafegus and Dminer, automating manual work, 12.
+    * SaLog - Online cargo monitoring tower with TMS integration, enabling complete route visualization and driver communication, 13.
 
-**Backlgrs** | Tech Lead | September 2023 - September 2024 [cite: 14]
+**Backlgrs** | Tech Lead | September 2023 - September 2024 
 
-* Fostered a collaborative and efficient development environment leveraging Salesforce[cite: 14, 15].
-* Implemented agile methodologies and streamlined development processes[cite: 15].
-* Created customized Salesforce solutions to empower developers and track progress[cite: 16].
-* Facilitated communication between development, product, and design teams[cite: 17].
+* Fostered a collaborative and efficient development environment leveraging Salesforce, 15.
+* Implemented agile methodologies and streamlined development processes.
+* Created customized Salesforce solutions to empower developers and track progress.
+* Facilitated communication between development, product, and design teams.
 
-**Avanade** | Consultant FullStack Developer | September 2021 - September 2023 [cite: 17]
+**Avanade** | Consultant FullStack Developer | September 2021 - September 2023 
 
-* Provided support for developers, process mapping, and worked on the client's DevOps platform[cite: 17, 18].
-* Created cloud resources such as API Gateway, Lambdas, frontends, micro-frontends, APIs, and Kafka/HTTP triggers for Natura's GRP Squad Técnica[cite: 17, 18].
+* Provided support for developers, process mapping, and worked on the client's DevOps platform, 18.
+* Created cloud resources such as API Gateway, Lambdas, frontends, micro-frontends, APIs, and Kafka/HTTP triggers for Natura's GRP Squad Técnica, 18.
 
-**Avanade** | Senior FullStack Developer | September 2020 - September 2021 [cite: 18]
+**Avanade** | Senior FullStack Developer | September 2020 - September 2021 
 
-* Developed and supported backend and frontend applications for Natura[cite: 18, 19].
-* Implemented technical solutions using Google Cloud Platform (GCP), including Lambdas and micro-frontends[cite: 19, 20].
-* Developed the integration layer between Natura and Avon[cite: 21].
+* Developed and supported backend and frontend applications for Natura, 19.
+* Implemented technical solutions using Google Cloud Platform (GCP), including Lambdas and micro-frontends, 20.
+* Developed the integration layer between Natura and Avon.
 
-**Ingaia Soluções Imobiliárias** | Backend Developer | February 2020 - August 2020 [cite: 22]
+**Ingaia Soluções Imobiliárias** | Backend Developer | February 2020 - August 2020 
 
-* Developed APIs for integrations with third-party web services and legacy systems[cite: 22].
-* Created API documentation using SWAGGER and utilized DOCKER for local environment setup[cite: 22].
-* Performed deployments using Jenkins[cite: 23].
+* Developed APIs for integrations with third-party web services and legacy systems.
+* Created API documentation using SWAGGER and utilized DOCKER for local environment setup.
+* Performed deployments using Jenkins.
 
-**Wipro do Brasil Industrial S/A** | IT Manager | September 2015 - December 2019 [cite: 24]
+**Wipro do Brasil Industrial S/A** | IT Manager | September 2015 - December 2019 
 
-* Managed the company's ERP system (Totvs-Protheus), including administration, service management, development, and migrations[cite: 24].
-* Administered, supported, and developed the ERP system's SQL Server 2012 database[cite: 24].
-* Managed the intranet, switches, Windows Server 2012 and Hyper-V servers, routers, and Fortigate firewall[cite: 25].
-* Provided support for Wipro Engineering in Chambersburg-USA[cite: 26].
+* Managed the company's ERP system (Totvs-Protheus), including administration, service management, development, and migrations.
+* Administered, supported, and developed the ERP system's SQL Server 2012 database.
+* Managed the intranet, switches, Windows Server 2012 and Hyper-V servers, routers, and Fortigate firewall.
+* Provided support for Wipro Engineering in Chambersburg-USA.
 
-**PEU Eletrecidade Ltda** | IT Supervisor | January 2015 - July 2015 [cite: 27]
+**PEU Eletrecidade Ltda** | IT Supervisor | January 2015 - July 2015 
 
-* Managed the company's ERP system (Totvs-Protheus), including administration, service management, development, and migrations[cite: 27].
-* Administered, supported, and developed the ERP system's SQL Server 2008 database[cite: 27].
-* Administered telephony, Windows Server 2008 and Linux-Samba servers, routers, and switches[cite: 28].
+* Managed the company's ERP system (Totvs-Protheus), including administration, service management, development, and migrations.
+* Administered, supported, and developed the ERP system's SQL Server 2008 database.
+* Administered telephony, Windows Server 2008 and Linux-Samba servers, routers, and switches.
 
-**Wipro do Brasil Industrial S/A** | IT Supervisor | January 2012 - January 2015 [cite: 29]
+**Wipro do Brasil Industrial S/A** | IT Supervisor | January 2012 - January 2015 
 
-* Managed the company's ERP system (Totvs-Protheus), including administration, service management, development, and migrations[cite: 29].
-* Administered, supported, and developed the ERP system's SQL Server 2008 database[cite: 29].
-* Administered telephony, Windows Server 2008 and Linux-Samba servers, routers, and switches[cite: 30].
+* Managed the company's ERP system (Totvs-Protheus), including administration, service management, development, and migrations.
+* Administered, supported, and developed the ERP system's SQL Server 2008 database.
+* Administered telephony, Windows Server 2008 and Linux-Samba servers, routers, and switches.
 
-**Totvs IP Limeira** | Development Consultant | February 2011 - December 2011 [cite: 31]
+**Totvs IP Limeira** | Development Consultant | February 2011 - December 2011 
 
-* Visited customers and developed solutions, reports, entry points, and customized routines to meet their needs[cite: 31].
+* Visited customers and developed solutions, reports, entry points, and customized routines to meet their needs.
 
-**RKM Equipamentos Hidráulicos Ltda** | Full Support Analyst | August 2006 - January 2011 [cite: 32]
+**RKM Equipamentos Hidráulicos Ltda** | Full Support Analyst | August 2006 - January 2011 
 
-* Provided support to users for the TOTVS system-Protheus, servers, and data network[cite: 32].
-* Developed solutions, reports, entry points, and customized routines[cite: 32].
+* Provided support to users for the TOTVS system-Protheus, servers, and data network.
+* Developed solutions, reports, entry points, and customized routines.
 
 ## Projects
 
 **Vem Ser Dev**
 
-* A social project that offers free professional qualification in Information Technology[cite: 2].
+* A social project that offers free professional qualification in Information Technology.
 * Aims to enable young people to learn and improve technical skills in systems development and prepare them for the corporate environment.
 * [Venha Conhecer o Projeto](https://vemserdev.net/)
 
