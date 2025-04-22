@@ -114,6 +114,16 @@ Results-oriented Software Engineer with 25+ years of experience in full-stack de
 
 ## Certifications
 
+* ✅ Engenharia de Prompts (Asymov Academy)
+* ✅ DevOps Culture Fundamentals (Rocketseat)
+* ✅ Discover Generative Artificial Intelligence (Linkedin)
+* ✅ AI Fundamentals (Rocketseat)
+* ✅ Python Fundamentals (Rocketseat)
+* ✅ Python Fundamentals (Rocketseat)
+* ✅ Go Fundamentals (Rocketseat)
+* ✅ Introduction to AI (Rocketseat)
+* ✅ Continuous Integration Course (Full Cycle)
+* ✅ Interfaces, Navigation and Local Storage (Rocketseat)
 * ✅ NestJS (Rocketseat)
 * ✅ DDD no Node.JS (Rocketseat)
 * ✅ NodeJS (Rocketseat) 
