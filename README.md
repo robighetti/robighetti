@@ -104,7 +104,7 @@ Results-oriented Software Engineer with 25+ years of experience in full-stack de
 
 * A social project that offers free professional qualification in Information Technology.
 * Aims to enable young people to learn and improve technical skills in systems development and prepare them for the corporate environment.
-* [Venha Conhecer o Projeto](https://vemserdev.net/)
+* [Come and meet us](https://vemserdev.net/)
 
 ## Education
 
