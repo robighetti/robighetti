@@ -114,7 +114,7 @@ Results-oriented Software Engineer with 25+ years of experience in full-stack de
 
 ## Certifications
 
-* ✅ Engenharia de Prompts (Asymov Academy)
+* ✅ Prompt Engineering (Asymov Academy)
 * ✅ DevOps Culture Fundamentals (Rocketseat)
 * ✅ Discover Generative Artificial Intelligence (Linkedin)
 * ✅ AI Fundamentals (Rocketseat)
