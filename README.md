@@ -114,6 +114,11 @@ Results-oriented Software Engineer with 25+ years of experience in full-stack de
 
 ## Certifications
 
+* ✅ AI Applications with LangChain (Asymov Academy)
+* ✅ Deploy with CrewAI (Asymov Academy)
+* ✅ Building Multi Agent Systems with CrewAI (Asymov Academy)
+* ✅ Introduction to Multi-agent Systems with CrewAI (Asymov Academy)
+* ✅ Exploring the OpenAI API (Asymov Academy)
 * ✅ Prompt Engineering (Asymov Academy)
 * ✅ DevOps Culture Fundamentals (Rocketseat)
 * ✅ Discover Generative Artificial Intelligence (Linkedin)
