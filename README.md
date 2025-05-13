@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/45999236?v=4" alt="Rodrigo Bighetti Profile Picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 20px;">
-</div>
-
 # Rodrigo Bighetti
 Fullstack Developer | Software Engineering
 
