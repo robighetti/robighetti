@@ -3,6 +3,7 @@
 Fullstack Developer | Software Engineering
 
 **Location:** Piracicaba, São Paulo, Brazil | **Phone:** +55 19 99982-8057 | **Email:** [robighetti@gmail.com](mailto:robighetti@gmail.com)
+
 **LinkedIn:** [www.linkedin.com/in/rodrigo-bighetti](www.linkedin.com/in/rodrigo-bighetti) | **Portfolio:** [https://github.com/robighetti](https://github.com/robighetti)
 
 ## Summary
