@@ -106,6 +106,7 @@ Highly skilled Software Engineer with over 10 years of experience in full-stack 
 
 | Course/Certificate                                               | Institution/Provider          | Date    |
 | :--------------------------------------------------------------- | :---------------------------- | :------ |
+| Building Web Applications with Streamlit                         | Asimov Academy, Brazil	      | 05/2025 |
 | Al Applications with LangChain                                   | Asimov Academy, Brazil        | 05/2025 |
 | Deploy with CrewAI                                               | Asimov Academy, Brazil        | 04/2025 |
 | Building Multi Agent Systems with CrewAI                         | Asimov Academy, Brazil        | 04/2025 |
