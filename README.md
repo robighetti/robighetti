@@ -10,7 +10,6 @@ Highly skilled Software Engineer with over 10 years of experience in full-stack 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=robighetti&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=robighetti&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robighetti&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div>   
